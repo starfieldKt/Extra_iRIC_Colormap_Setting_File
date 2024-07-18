@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorMapSetting transitionMode="1" valueMode="1" autoValueRange="true" minValue="0" maxValue="1" fillUppeer="true" fillLower="true" colorTableMinValue="0" visible="true" direction="1" barAutoWidth="false" barWidth="30" barAlign="1" title="title" autoNumberOfLabels="true" numberOfLabels="2" labelFormat="%5.2f" titleFont="Century Gothic,14,-1,5,50,0,0,0,0,0,Regular" labelFont="Century Gothic,14,-1,5,50,0,0,0,0,0,Regular" titleColor="#000000" labelColor="#000000" backgroundColor="#ffffff" backgroundOpacity="20" position="7" horizontalMarginRatio="0" verticalMarginRatio="0.1" width="300" height="500">
+    <Item value="0.050000" color="#393b79" transparent="false"/>
+    <Item value="0.100000" color="#5254a3" transparent="false"/>
+    <Item value="0.150000" color="#6b6ecf" transparent="false"/>
+    <Item value="0.200000" color="#9c9ede" transparent="false"/>
+    <Item value="0.250000" color="#637939" transparent="false"/>
+    <Item value="0.300000" color="#8ca252" transparent="false"/>
+    <Item value="0.350000" color="#b5cf6b" transparent="false"/>
+    <Item value="0.400000" color="#cedb9c" transparent="false"/>
+    <Item value="0.450000" color="#8c6d31" transparent="false"/>
+    <Item value="0.500000" color="#bd9e39" transparent="false"/>
+    <Item value="0.550000" color="#e7ba52" transparent="false"/>
+    <Item value="0.600000" color="#e7cb94" transparent="false"/>
+    <Item value="0.650000" color="#843c39" transparent="false"/>
+    <Item value="0.700000" color="#ad494a" transparent="false"/>
+    <Item value="0.750000" color="#d6616b" transparent="false"/>
+    <Item value="0.800000" color="#e7969c" transparent="false"/>
+    <Item value="0.850000" color="#7b4173" transparent="false"/>
+    <Item value="0.900000" color="#a55194" transparent="false"/>
+    <Item value="0.950000" color="#ce6dbd" transparent="false"/>
+    <Item value="1.000000" color="#de9ed6" transparent="false"/>
+</ColorMapSetting>

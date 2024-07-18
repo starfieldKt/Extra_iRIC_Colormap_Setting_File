@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ColorMapSetting transitionMode="0" valueMode="1" autoValueRange="true" minValue="0" maxValue="1" fillUppeer="true" fillLower="true" colorTableMinValue="0" visible="true" direction="1" barAutoWidth="false" barWidth="30" barAlign="1" title="title" autoNumberOfLabels="true" numberOfLabels="2" labelFormat="%5.2f" titleFont="Century Gothic,14,-1,5,50,0,0,0,0,0,Regular" labelFont="Century Gothic,14,-1,5,50,0,0,0,0,0,Regular" titleColor="#000000" labelColor="#000000" backgroundColor="#ffffff" backgroundOpacity="20" position="7" horizontalMarginRatio="0" verticalMarginRatio="0.1" width="300" height="200">
+    <Item value="0.000000" color="#f7fcfd" transparent="false"/>
+    <Item value="0.142857" color="#e5f5f9" transparent="false"/>
+    <Item value="0.285714" color="#ccece6" transparent="false"/>
+    <Item value="0.428571" color="#99d8c9" transparent="false"/>
+    <Item value="0.571429" color="#66c2a4" transparent="false"/>
+    <Item value="0.714286" color="#41ae76" transparent="false"/>
+    <Item value="0.857143" color="#238b45" transparent="false"/>
+    <Item value="1.000000" color="#005824" transparent="false"/>
+</ColorMapSetting>
